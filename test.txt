@@ -1,4 +1,4 @@
-//one
+	//one
 1
 211
 2
@@ -21,4 +21,12 @@ public class Student{
 	public string parentName{get;set;}
 	public string address{get;set;}
 	public string phn{get;set;}
+	
+	Student(){
+		this.studentName = "sai";
+		this.parentName = "Kumar";
+		this.address = "hyd";
+		this.phn = "#";
+	}
+	
 }

@@ -20,5 +20,5 @@ public class Student{
 	public string studentName{get;set;}
 	public string parentName{get;set;}
 	public string address{get;set;}
-	public string phn{get;set;:
+	public string phn{get;set;}
 }
